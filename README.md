@@ -6,6 +6,9 @@ This repository contains datasets and Jupyter notebooks focused on the analysis 
 
 ### Files and Descriptions
 
+#### `Framework_ExtractFirePoints.ipynb`
+- **Description:** Contains the Pythons Codes using GEE for the framework to extract the forest fire factors.
+
 #### `ChatGPT-ConversationHistory.txt`
 - **Description:** Contains the history of prompts used with ChatGPT + Noteable plugin to generate the Python code.
 #### `ForestFireDataset_PeninsularMalaysia_Filtered.csv`
